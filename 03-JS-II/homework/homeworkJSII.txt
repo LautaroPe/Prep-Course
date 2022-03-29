@@ -1,0 +1,7 @@
+"for" se utiliza como un repetidor que funcionará hasta que cumpla el objetivo que hayamos determinado.
+
+&& ('Y'/'AND') se utiliza para evaluar expresiones y en caso de que alguna de ellas sea falsa, todas lo serán. Para ser verdadero deben ser todas verdaderas.  
+
+|| ('O') se utiliza para determinar si alguna de las expresiones unidas por este es verdadera, necesita al menos una expresion verdadera para que el resultado sea true, de lo contrario será false.
+
+! ('NO'/'NOT') se utiliza como negación, con él buscaremos la respuesta contraria a la que obtendriamos si no lo usaramos.
