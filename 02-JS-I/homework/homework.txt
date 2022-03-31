@@ -1,0 +1,5 @@
+Variable -> una variable es un elemento en donde se puede establecer el valor de otro elemento.
+Strings -> Las strings son texto que debe ser escrito entre comillas (" ")
+Funciones (argumentos, return)-> Una función es un objeto que permite a otro realizar determinada acción. 
+Declaraciones IF -> el IF se utiliza para comparar 2 o más elementos, y en el caso de que dicha comparación sea verdadera dará un resultado, y en caso contrario nos dará otro resultado
+Valores booleanos -> Son datos que solo tienen 2 valores, verdadero o falso 
